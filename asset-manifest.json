@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/reactjs-owlcarousel/static/css/main.3b0c6dc7.chunk.css",
+    "main.js": "/reactjs-owlcarousel/static/js/main.6e2d8dec.chunk.js",
+    "main.js.map": "/reactjs-owlcarousel/static/js/main.6e2d8dec.chunk.js.map",
+    "runtime-main.js": "/reactjs-owlcarousel/static/js/runtime-main.28497277.js",
+    "runtime-main.js.map": "/reactjs-owlcarousel/static/js/runtime-main.28497277.js.map",
+    "static/css/2.44826e3e.chunk.css": "/reactjs-owlcarousel/static/css/2.44826e3e.chunk.css",
+    "static/js/2.3925e2fc.chunk.js": "/reactjs-owlcarousel/static/js/2.3925e2fc.chunk.js",
+    "static/js/2.3925e2fc.chunk.js.map": "/reactjs-owlcarousel/static/js/2.3925e2fc.chunk.js.map",
+    "index.html": "/reactjs-owlcarousel/index.html",
+    "static/css/2.44826e3e.chunk.css.map": "/reactjs-owlcarousel/static/css/2.44826e3e.chunk.css.map",
+    "static/css/main.3b0c6dc7.chunk.css.map": "/reactjs-owlcarousel/static/css/main.3b0c6dc7.chunk.css.map",
+    "static/js/2.3925e2fc.chunk.js.LICENSE.txt": "/reactjs-owlcarousel/static/js/2.3925e2fc.chunk.js.LICENSE.txt",
+    "static/media/1.ce07a13d.jpg": "/reactjs-owlcarousel/static/media/1.ce07a13d.jpg",
+    "static/media/2.84437258.jpg": "/reactjs-owlcarousel/static/media/2.84437258.jpg",
+    "static/media/3.1b23db9c.jpg": "/reactjs-owlcarousel/static/media/3.1b23db9c.jpg",
+    "static/media/4.b54bcb93.jpg": "/reactjs-owlcarousel/static/media/4.b54bcb93.jpg",
+    "static/media/5.35bf7424.jpg": "/reactjs-owlcarousel/static/media/5.35bf7424.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28497277.js",
+    "static/css/2.44826e3e.chunk.css",
+    "static/js/2.3925e2fc.chunk.js",
+    "static/css/main.3b0c6dc7.chunk.css",
+    "static/js/main.6e2d8dec.chunk.js"
+  ]
+}
